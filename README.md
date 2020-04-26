@@ -1,2 +1,3 @@
 # P1-Unscramble-Computer-Science-Problems
-Udacity project 1
+
+Please check the folder for the files. Git review is appreciated.
